@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "381045589221",
+    "project_id": "login-fierbase-6c898",
+    "storage_bucket": "login-fierbase-6c898.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381045589221:android:5d977b4f10d0ea8c3a000c",
+        "android_client_info": {
+          "package_name": "com.example.logon_with_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381045589221-ojrccdrmoes3uicidvkkc7jm0qfcfqmo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9wUZFYHK6h3Msvnsczme6FZt4jDyXxzw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381045589221-ojrccdrmoes3uicidvkkc7jm0qfcfqmo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
